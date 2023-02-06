@@ -1,0 +1,4 @@
+/home/master/IdeaProjects/HibernateFirst/src/main/java/com/mbdev/hibernatefirst/Application.java
+/home/master/IdeaProjects/HibernateFirst/src/main/java/com/mbdev/hibernatefirst/entity/Account.java
+/home/master/IdeaProjects/HibernateFirst/src/main/java/com/mbdev/hibernatefirst/dao/AccountDAO.java
+/home/master/IdeaProjects/HibernateFirst/src/main/java/com/mbdev/hibernatefirst/config/HibernateConfiguration.java
